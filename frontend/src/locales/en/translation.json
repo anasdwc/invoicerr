@@ -1129,7 +1129,9 @@
                 "vatRate": "VAT Rate",
                 "paymentMethod": "Payment Method",
                 "paymentDetails": "Payment Details",
-                "notes": "Notes"
+                "notes": "Notes",
+                "legalId": "Legal ID",
+                "vatId": "VAT"
             },
             "defaultLabels": {
                 "invoice": "Invoice",
